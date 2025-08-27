@@ -62,18 +62,12 @@ Este proyecto de práctica presenta un \*\*dashboard interactivo en Power BI\*\*
 
 ## 📸 Capturas del proyecto
 
-![Gráfico 1](capturas/dashboard1.png)
-
-![Gráfico 2](capturas/dashboard2.png)
-
-![Gráfico 3](capturas/dashboard3.png)
-
-![Gráfico 4](capturas/dashboard4.png)
-
-![Gráfico 5](capturas/dashboard5.png)
-
-![Gráfico 6](capturas/dashboard6.png)
-
+![Dashboard 1](https://github.com/Gisy26/Ventas-de-Automoviles/raw/main/capturas/dashboard1.jpg)
+![Dashboard 2](https://github.com/Gisy26/Ventas-de-Automoviles/raw/main/capturas/dashboard2.jpg)
+![Dashboard 3](https://github.com/Gisy26/Ventas-de-Automoviles/raw/main/capturas/dashboard3.jpg)
+![Dashboard 4](https://github.com/Gisy26/Ventas-de-Automoviles/raw/main/capturas/dashboard4.jpg)
+![Dashboard 5](https://github.com/Gisy26/Ventas-de-Automoviles/raw/main/capturas/dashboard5.jpg)
+![Dashboard 6](https://github.com/Gisy26/Ventas-de-Automoviles/raw/main/capturas/dashboard6.jpg)
 
 ---
 
@@ -90,6 +84,7 @@ Este proyecto me permitió practicar:
 \- Diseño de visualizaciones interactivas  
 
 \- Análisis de negocio para detectar oportunidades y riesgos  
+
 
 
 
